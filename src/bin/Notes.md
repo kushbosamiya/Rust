@@ -24,4 +24,13 @@ types of way to make the hashmaps
     - empty hashmaps 
     - preallocated hashmaps
     - direct initialization
+
+<!-- generics  -->
+- defination  -> done 
+- basic code  -> done 
+- generic structs -> use structs in generics -> done
+- multiple type params -> done
+- traits bounds -> done
+- where clause -> done
+- struct implementation -> done
   
